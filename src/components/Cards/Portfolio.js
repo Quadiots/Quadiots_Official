@@ -10,7 +10,7 @@ const Portfolio = () => {
       names: "Atharva Shinde",
       role: "React Developer",
       desc:
-        "I am a React Developer. I work as an intern for React Development at FusionTech",
+        "I am a Product Manager",
     },
     {
       img:
@@ -18,7 +18,7 @@ const Portfolio = () => {
       names: "Siddhant Chandorkar",
       role: "ML Engineer",
       desc:
-        "I am a ML Expert. I work as an intern for Machine Learning at FusionTech",
+        "I am a ML Expert",
     },
     {
       img:
@@ -26,7 +26,7 @@ const Portfolio = () => {
       names: "Shubham Dalvi",
       role: "React Developer",
       desc:
-        "I am a React Developer. I work as an intern for React Development at FusionTech",
+        "I am a Frontend React Developer",
     },
     {
       img:
@@ -34,7 +34,7 @@ const Portfolio = () => {
       names: "Rajeev Kaviskar",
       role: "Graphics Designer",
       desc:
-        "I am a Graphics Designer. I work as an intern for ML at FusionTech",
+        "I am a UI/UX Designer",
     },
   ]);
 
